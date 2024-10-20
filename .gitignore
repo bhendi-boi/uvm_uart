@@ -1,4 +1,5 @@
 *.vcd
 *.log
-ramdom.rpt
+random.rpt
 xcelium.d
+cov_work
